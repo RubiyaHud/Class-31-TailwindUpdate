@@ -20,8 +20,21 @@
    **@import "tailwindcss";**
    ![image](https://github.com/user-attachments/assets/03a7c728-7f56-4bc8-a155-ab59ec2fa6ce)
 
-9.   <ins> Start the Tailwind CLI build process </ins> >> Type "npx @tailwindcss/cli -i ./src/input.css -o ./src/output.css --watch" in the terminal which creates "output.css" file in the src folder.
+9.   <ins> Start the Tailwind CLI build process </ins> >> Type **"npx @tailwindcss/cli -i ./src/input.css -o ./src/output.css --watch"** in the terminal which creates **"output.css"** file in the **src** folder.
     ![image](https://github.com/user-attachments/assets/97b39e17-91db-4722-b0af-9344768ad70a)
+
+10.   Now, create **index.html** file in the root folder:
+    ![image](https://github.com/user-attachments/assets/d1f902d6-fd53-42ba-9569-6c9072478313)
+11.   Then, link the output.css file with the project:
+    ![image](https://github.com/user-attachments/assets/525699bb-61e0-4405-bece-312d2031368a)
+12.   Test the connection of Tailwind CSS with the Project:
+    ![image](https://github.com/user-attachments/assets/b9aee5f3-627b-4997-96b7-b7fa967cffc7)
+
+#### Impotant Note:
+Type the watch command if the project is restarted/ shut down/ stopped
+![image](https://github.com/user-attachments/assets/0846e018-93b2-4309-9544-15576e46c1a0)
+
+
 
 
 
