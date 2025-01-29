@@ -20,7 +20,9 @@
    **@import "tailwindcss";**
    ![image](https://github.com/user-attachments/assets/03a7c728-7f56-4bc8-a155-ab59ec2fa6ce)
 
-9.   
+9.   <ins> Start the Tailwind CLI build process </ins> >> Type "npx @tailwindcss/cli -i ./src/input.css -o ./src/output.css --watch" in the terminal which creates "output.css" file in the src folder.
+    ![image](https://github.com/user-attachments/assets/97b39e17-91db-4722-b0af-9344768ad70a)
+
 
 
  
