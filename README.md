@@ -14,5 +14,8 @@
 5.  Now, Open the terminal (press "Ctrl + ~" or, click on Terminal from the top menu)
 6.  Select "gitbash" and remove "powershell"
    ![image](https://github.com/user-attachments/assets/c64cf68c-6e3f-45ee-804a-3561e976f4bf)
-7.   
+7.   Then Type "npm install tailwindcss @tailwindcss/cli" in the terminal which installs Tailwind and creates "node_modules", "package-lock.json" and "package.json"
+   ![image](https://github.com/user-attachments/assets/75ac1531-9174-4499-82ee-5c3c95d6b651)
+8.   
+
  
