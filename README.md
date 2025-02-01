@@ -5,7 +5,7 @@
 
 
 
-2.  Check the version of **Node.js** which is installed in the system (PC) and Update it (if required):
+2.  Check the version of **Node.js** which is installed in the system (PC) and Update it (if required, version is not Up-to-date):
       *  Go to the Command Prompt >> Type "node -v"
      ![image](https://github.com/user-attachments/assets/b48bc2c8-c935-4444-a404-396520efca84)
 
