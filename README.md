@@ -30,8 +30,8 @@
 12.   Test the connection of Tailwind CSS with the Project:
     ![image](https://github.com/user-attachments/assets/b9aee5f3-627b-4997-96b7-b7fa967cffc7)
 
-#### Impotant Note:
-Type the watch command if the project is restarted/ shut down/ stopped
+> [!IMPORTANT]
+> Type the watch command if the project is restarted/ shut down/ stopped.
 ![image](https://github.com/user-attachments/assets/0846e018-93b2-4309-9544-15576e46c1a0)
 
 
